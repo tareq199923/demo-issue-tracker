@@ -1,0 +1,1 @@
+- [Project Architecture](project-architecture.md) — In-memory kanban issue tracker, Next.js 15 + React 19 + @dnd-kit, plain CSS, no database
